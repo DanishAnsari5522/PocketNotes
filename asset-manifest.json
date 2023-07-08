@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DanishAnsari5522/PocketNotes.git/static/css/main.4606a9fc.css",
+    "main.js": "/DanishAnsari5522/PocketNotes.git/static/js/main.dd950ba4.js",
+    "static/media/homepage.png": "/DanishAnsari5522/PocketNotes.git/static/media/homepage.051c5dd6cf08bd17366f.png",
+    "index.html": "/DanishAnsari5522/PocketNotes.git/index.html",
+    "main.4606a9fc.css.map": "/DanishAnsari5522/PocketNotes.git/static/css/main.4606a9fc.css.map",
+    "main.dd950ba4.js.map": "/DanishAnsari5522/PocketNotes.git/static/js/main.dd950ba4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4606a9fc.css",
+    "static/js/main.dd950ba4.js"
+  ]
+}
