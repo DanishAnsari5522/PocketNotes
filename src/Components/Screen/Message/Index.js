@@ -66,7 +66,7 @@ function Message(props) {
                 <div className="GroupList1" >
                     {
                         props.size < 550 &&
-                        <div style={{ fontSize: 22, color: 'gray' }} onClick={() => { window.location.replace('/'); }}>
+                        <div style={{ fontSize: 22, color: 'gray' }} onClick={() => {  window.location.reload() }}>
                             <AiOutlineArrowLeft />
                         </div>}
                     <div className="Substr1" style={{ backgroundColor: props.colorCode }}>
